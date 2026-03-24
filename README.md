@@ -1,8 +1,9 @@
-
- ![efe3f27de81535cb00a7a45fb7ba8a13](https://github.com/user-attachments/assets/8e22ed17-b6a5-412c-a3c0-5d7c28f68949)
- 
-
 # Olá, me chamo Laís Santana
+ <div align="center">
+   <img src="https://i.pinimg.com/1200x/ef/e3/f2/efe3f27de81535cb00a7a45fb7ba8a13.jpg" alt="Header" width="800">
+</div>
+
+
 <p align="left"> 
   Sou desenvolvedora back-end em formação.
   Atualmente curso Ciência da Computação e estou focada no aprendizado de tecnologias voltadas ao back-end.
