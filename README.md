@@ -1,9 +1,14 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-#Olá, me chamo Laís
+# Olá, me chamo Laís Santana
 <p align="left"> 
-  Olá, me chamo Laís e sou desenvolvedora back-end em formação.
+  Sou desenvolvedora back-end em formação.
   Atualmente curso Ciência da Computação e estou focada no aprendizado de tecnologias voltadas ao back-end.
+</p>
+
+
+<p align="left">
+  🎯 No momento, meu objetivo é aprender a construir APIs REST seguindo boas práticas, utilizando Java com Spring Boot.
 </p>
 
 <p align="left">
@@ -19,7 +24,7 @@
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Se quiser trocar uma ideia, colaborar ou falar sobre oportunidades, me chama: ⤵️
 </p>
 
 <p align="left">
