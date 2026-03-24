@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Java.**
+  🦄 Linguagens: Java.
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💼 Ferramentas: MySQL, API REST e PostMan
 </p>
 
 <p align="left">
