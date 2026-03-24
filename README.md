@@ -10,7 +10,11 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: MySQL, API REST e PostMan
+  💾 Banco de dados: MySQL
+</p>
+
+<p align="left">
+  🔧 Tecnologias e ferramentas: APIs REST, Postman
 </p>
 
 <p align="left">
