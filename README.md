@@ -1,6 +1,6 @@
 # Olá, me chamo Laís Santana
  <div align="center">
-   <img [[src="https://i.pinimg.com/1200x/ef/e3/f2/efe3f27de81535cb00a7a45fb7ba8a13.jpg](https://i.pinimg.com/1200x/88/d9/46/88d946fc31597376dd7068f73ac0f3be.jpg](https://i.pinimg.com/1200x/88/d9/46/88d946fc31597376dd7068f73ac0f3be.jpg)](https://br.pinterest.com/pin/4433299629257791/)" width="100%" height="200" style="object-fit: cover;">
+   <img src=https://i.pinimg.com/1200x/88/d9/46/88d946fc31597376dd7068f73ac0f3be.jpg" width="100%" height="200" style="object-fit: cover;">
 </div>
 
 
