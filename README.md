@@ -1,8 +1,12 @@
-# Olá, me chamo Laís Santana
+# Olá, eu meu nome é Laís Santana.
+
  <div align="center">
-   <img src="https://i.pinimg.com/1200x/88/d9/46/88d946fc31597376dd7068f73ac0f3be.jpg" width="100%" height="200" style="object-fit: cover;">
+   <img src="https://64.media.tumblr.com/bee4701d5f546d8e58ce462dd4ba44e1/f85c482989dd06da-bd/s640x960/51ab11022471b3ff6b585afe1592f05e407f57a8.gifv" width="70%";">
 </div>
 
+<br>
+
+<img src="https://github.com/user-attachments/assets/6fa6002f-2d7e-4760-9987-e94fd1ddae06" alt="Imagem" align="right" width="400px" >
 
 <p align="left"> 
   Sou desenvolvedora back-end em formação.
