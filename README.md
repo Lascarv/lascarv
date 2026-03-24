@@ -1,4 +1,4 @@
-# Olá, eu meu nome é Laís Santana.
+# Olá, meu nome é Laís Santana.
 
  <div align="center">
    <img src="https://64.media.tumblr.com/bee4701d5f546d8e58ce462dd4ba44e1/f85c482989dd06da-bd/s640x960/51ab11022471b3ff6b585afe1592f05e407f57a8.gifv" width="70%";">
