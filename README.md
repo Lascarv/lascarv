@@ -1,6 +1,6 @@
 # Olá, me chamo Laís Santana
  <div align="center">
-   <img src="https://i.pinimg.com/1200x/ef/e3/f2/efe3f27de81535cb00a7a45fb7ba8a13.jpg" alt="Header" width="800">
+   <img src="https://i.pinimg.com/1200x/ef/e3/f2/efe3f27de81535cb00a7a45fb7ba8a13.jpg" width="100%" height="200" style="object-fit: cover;">
 </div>
 
 
