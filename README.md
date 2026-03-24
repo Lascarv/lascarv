@@ -1,4 +1,7 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<pre>
+ ![efe3f27de81535cb00a7a45fb7ba8a13](https://github.com/user-attachments/assets/8e22ed17-b6a5-412c-a3c0-5d7c28f68949)
+ 
+</pre>
 
 # Olá, me chamo Laís Santana
 <p align="left"> 
