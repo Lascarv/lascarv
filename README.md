@@ -19,19 +19,19 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: Java.
+  - Linguagens: Java.
 </p>
 
 <p align="left">
-  💾 Banco de dados: MySQL
+  - Banco de dados: MySQL
 </p>
 
 <p align="left">
-  🔧 Tecnologias e ferramentas: APIs REST, Postman
+  - Tecnologias e ferramentas: APIs REST, Postman
 </p>
 
 <p align="left">
-  💌 Se quiser trocar uma ideia, colaborar ou falar sobre oportunidades, me chama: ⤵️
+  Se quiser trocar uma ideia, colaborar ou falar sobre oportunidades, me chama: ⤵️
 </p>
 
 <p align="left">
